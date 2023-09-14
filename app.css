@@ -1,0 +1,59 @@
+body {
+    background-color: cornsilk;
+}
+
+.containter {
+    position: relative;
+}
+
+.colored-box {
+    width: 100vw;
+    height: 75pt;
+    padding-top: pt;
+    background-color: black;
+}
+
+.Home {
+    color: cornsilk;
+    text-align: left;
+    list-style-type: none;
+    padding-left: 50pt;
+    padding-top: 25pt;
+    position: absolute;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: transform 0.5s ease;
+}
+
+.Home:hover{
+    border-bottom: 2px solid cornsilk;
+}
+
+.Portfolio {
+    position: absolute;
+    padding-left: 150pt;
+    padding-top: 25pt;
+    color: cornsilk;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+.Bio {
+    position: absolute;
+    padding-left: 270pt;
+    padding-top: 25pt;
+    color: cornsilk;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
+.Contact {
+    position: absolute;
+    padding-left: 370pt;
+    padding-top: 25pt;
+    color: cornsilk;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+
